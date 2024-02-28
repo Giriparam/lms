@@ -73,7 +73,7 @@ function CreateCourse() {
               placeholder="Description"
               rows={10}
               className="textarea textarea-primary rounded-none"
-            />
+             />
           </label>
 
           <button type="submit" className="btn btn-primary">
